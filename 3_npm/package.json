@@ -1,0 +1,15 @@
+{
+  "name": "gavencalci",
+  "version": "1.0.0",
+  "description": "This is a calci created during a node course",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaven",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "gavencalci": "^1.0.0"
+  }
+}

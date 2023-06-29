@@ -1,0 +1,15 @@
+I made a simple npm package and published it on npmjs.com
+for installation use => npm i gavencalci
+
+to publish a package
+
+first create an account on npm 
+can go to website and do manually or 
+1 -> npm adduser
+2 -> npm login
+
+for creating package json file
+1 -> npm init
+
+to publish the package
+1 -> npm publish

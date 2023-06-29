@@ -1,0 +1,11 @@
+{
+  "name": "gavencalci",
+  "version": "1.0.0",
+  "description": "This is a calci made during a node course",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaven",
+  "license": "ISC"
+}
